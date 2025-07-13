@@ -7,7 +7,9 @@ This repository is for showing how Git and GitHub work
 
 ## Deployment
 
-## How to continue
+## How to contribute
+
+Please fork this repository and then issue Pull Request for review.
 
 ## Extras
 
